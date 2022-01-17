@@ -1,0 +1,21 @@
+[WARN ] 2022-01-09 20:49:47 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-09 20:50:23 SpawnTable: Data missing in NPC table for ID 1000004!
+[WARN ] 2022-01-09 20:50:23 SpawnTable: Data missing in NPC table for ID 10004!
+[WARN ] 2022-01-09 20:54:44 L2GameClientPacket: RequestExTryToPutEnchantTargetItem: Undefined scroll have been used id: 961
+[WARN ] 2022-01-09 20:56:18 L2GameClientPacket: RequestExTryToPutEnchantTargetItem: Undefined scroll have been used id: 961
+[WARN ] 2022-01-09 21:09:37 TargetType: Outdated Skill Demonic Desire(23322,1) with target type ENEMY used on Beto Risso [268497202] by Void [268481234]!
+[WARN ] 2022-01-09 21:09:57 TargetType: Outdated Skill Fury of Darkness(23323,1) with target type ENEMY used on Beto Risso [268497202] by Void [268481234]!
+[WARN ] 2022-01-09 21:23:36 TargetType: Outdated Skill PvP Armor - Mirage(5694,1) with target type ENEMY used on Beto Risso [268497202] by Void [268481234]!
+[WARN ] 2022-01-09 21:23:43 TargetType: Outdated Skill PvP Armor - Mirage(5694,1) with target type TARGET used on Beto Risso [268497202] by Void [268481234]!
+[WARN ] 2022-01-09 21:23:44 TargetType: Outdated Skill Expose Weak Point(5565,1) with target type ENEMY_ONLY used on Beto Risso [268497202] by Void [268481234]!
+[WARN ] 2022-01-09 21:23:44 TargetType: Outdated Skill PvP Armor - Mirage(5694,1) with target type TARGET used on Beto Risso [268497202] by Void [268481234]!
+[WARN ] 2022-01-09 21:23:45 TargetType: Outdated Skill PvP Armor - Mirage(5694,1) with target type TARGET used on Beto Risso [268497202] by Void [268481234]!
+[WARN ] 2022-01-09 21:23:45 TargetType: Outdated Skill PvP Armor - Mirage(5694,1) with target type TARGET used on Beto Risso [268497202] by Void [268481234]!
+[WARN ] 2022-01-09 21:23:46 TargetType: Outdated Skill PvP Armor - Mirage(5694,1) with target type TARGET used on Beto Risso [268497202] by Void [268481234]!
+[WARN ] 2022-01-09 21:23:46 TargetType: Outdated Skill PvP Armor - Mirage(5694,1) with target type TARGET used on Beto Risso [268497202] by Void [268481234]!
+[WARN ] 2022-01-09 21:38:13 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type ENEMY used on G-Cerati [268504606] by Void [268481234]!
+[WARN ] 2022-01-09 21:40:10 L2GameClientPacket: RequestExTryToPutEnchantTargetItem: Undefined scroll have been used id: 961
+[WARN ] 2022-01-09 21:40:13 L2GameClientPacket: RequestExTryToPutEnchantTargetItem: Undefined scroll have been used id: 961
+[WARN ] 2022-01-09 21:40:21 L2GameClientPacket: RequestExTryToPutEnchantTargetItem: Undefined scroll have been used id: 961
+[WARN ] 2022-01-09 21:41:00 Shutdown: GM: Void(268481234) issued shutdown command. restarting in 0 seconds!
+[WARN ] 2022-01-09 21:41:00 Shutdown: GM shutdown countdown is over. restarting NOW!

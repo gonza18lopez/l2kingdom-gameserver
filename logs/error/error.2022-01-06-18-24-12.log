@@ -1,0 +1,25 @@
+[WARN ] 2022-01-06 18:24:31 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-06 18:25:03 SpawnTable: Data missing in NPC table for ID 1000004!
+[WARN ] 2022-01-06 18:25:03 SpawnTable: Data missing in NPC table for ID 10004!
+[WARN ] 2022-01-06 18:31:16 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type ENEMY used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:31:18 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:31:21 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:31:22 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:31:25 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:31:27 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:31:28 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:31:29 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:31:30 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:31:32 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:31:33 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:31:35 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:31:36 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479258] by Void [268481234]!
+[WARN ] 2022-01-06 18:35:28 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2NpcInstance:Klemis(32734)[268438841] by Void [268481234]!
+[WARN ] 2022-01-06 18:35:30 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2NpcInstance:Klemis(32734)[268438841] by Void [268481234]!
+[WARN ] 2022-01-06 18:35:34 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2NpcInstance:Klemis(32734)[268438841] by Void [268481234]!
+[WARN ] 2022-01-06 18:36:10 TargetType: Outdated Skill Expose Weak Point(5565,1) with target type ENEMY_ONLY used on L2MonsterInstance:Krajian(22755)[268439818] by Void [268481234]!
+[WARN ] 2022-01-06 18:37:18 TargetType: Outdated Skill Expose Weak Point(5565,1) with target type TARGET used on L2MonsterInstance:Turtlelian(22754)[268439967] by Void [268481234]!
+[WARN ] 2022-01-06 18:37:26 TargetType: Outdated Skill Expose Weak Point(5565,1) with target type TARGET used on L2MonsterInstance:Turtlelian(22754)[268439967] by Void [268481234]!
+[WARN ] 2022-01-06 18:38:27 Shutdown: GM: FighterLethal(268497202) issued shutdown command. restarting in 1 seconds!
+[WARN ] 2022-01-06 18:38:27 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MonsterInstance:Hot Springs Yeti(21320)[268470793] by Void [268481234]!
+[WARN ] 2022-01-06 18:38:28 Shutdown: GM shutdown countdown is over. restarting NOW!

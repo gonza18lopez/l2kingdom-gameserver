@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10003</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- H5 weapons -->
+<!-- © 2011 by 007Florin -->
+
+
+
+  <!-- Hellblade -->
+ <item>
+    <production id="21919" count="1"/>
+  </item>
+
+  <!-- Hellblade - Haste -->
+ <item>
+    <production id="21920" count="1"/>
+  </item>
+
+  <!-- Hellblade - Health -->
+ <item>
+    <production id="21921" count="1"/>
+  </item>
+
+  <!-- Hellblade - Focus -->
+ <item>
+    <production id="21922" count="1"/>
+  </item>
+
+  <!-- Hellblade - Lightning -->
+ <item>
+    <production id="21927" count="1"/>
+  </item>
+
+  <!-- Hellblade - Lightning - Haste -->
+ <item>
+    <production id="21928" count="1"/>
+  </item>
+
+  <!-- Hellblade - Lightning - Health -->
+ <item>
+    <production id="21929" count="1"/>
+  </item>
+
+  <!-- Hellblade - Lightning - Focus -->
+ <item>
+    <production id="21930" count="1"/>
+  </item>
+
+  <!-- Butcher Blades -->
+ <item>
+    <production id="21935" count="1"/>
+  </item>
+
+  <!-- Butcher Blades - Confusion --> 
+ <item>
+    <production id="21937" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction -->
+ <item>
+    <production id="21939" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - HP Drain -->
+ <item>
+    <production id="21940" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - Health -->
+ <item>
+    <production id="21941" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - HP Regeneration -->
+ <item>
+    <production id="21942" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - Landslide -->
+ <item>
+    <production id="21947" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - Landslide - HP Drain -->
+ <item>
+    <production id="21948" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - Landslide - Health -->
+ <item>
+    <production id="21949" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - Landslide - HP Regeneration -->
+ <item>
+    <production id="21950" count="1"/>
+  </item>
+
+  <!-- Blades of Delusion -->
+ <item>
+    <production id="21955" count="1"/>
+  </item>
+
+  <!-- Blades of Delusion - Earth -->
+ <item>
+    <production id="21957" count="1"/>
+  </item>
+
+  <!-- Blood Brother -->
+ <item>
+    <production id="21959" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Focus -->
+ <item>
+    <production id="21960" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Health -->
+ <item>
+    <production id="21961" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Light -->
+ <item>
+    <production id="21962" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Great Gale -->
+ <item>
+    <production id="21966" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Great Gale - Focus -->
+ <item>
+    <production id="21967" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Great Gale - Health -->
+ <item>
+    <production id="21968" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Great Gale - Light -->
+ <item>
+    <production id="21969" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan -->
+ <item>
+    <production id="21973" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - M. Atk. -->
+ <item>
+    <production id="21974" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - Magic Silence -->
+ <item>
+    <production id="21975" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - Acumen -->
+ <item>
+    <production id="21976" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - Holy Spirit -->
+ <item>
+    <production id="21977" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - Holy Spirit - M. Atk. -->
+ <item>
+    <production id="21978" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - Holy Spirit - Magic Silence -->
+ <item>
+    <production id="21979" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - Holy Spirit - Acumen -->
+ <item>
+    <production id="21980" count="1"/>
+  </item>
+
+
+</list>

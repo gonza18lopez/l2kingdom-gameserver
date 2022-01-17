@@ -1,0 +1,6 @@
+06/01/2022 17:47:41>FighterLethal [268497202]>Drop>Hernan>(id: 437 name: Mithril Tunic objId: 268481215 x: 79708 y: 150653 z: -3519)
+06/01/2022 17:47:45>FighterLethal [268497202]>Drop>Hernan>(id: 470 name: Mithril Stockings objId: 268481216 x: 79708 y: 150653 z: -3519)
+06/01/2022 17:47:48>FighterLethal [268497202]>Drop>Hernan>(id: 2450 name: Mithril Gloves objId: 268481217 x: 79708 y: 150653 z: -3519)
+06/01/2022 17:47:56>FighterLethal [268497202]>Drop>Hernan>(id: 2450 name: Mithril Gloves objId: 268481217 x: 79714 y: 150656 z: -3519)
+06/01/2022 17:47:58>FighterLethal [268497202]>Drop>Hernan>(id: 470 name: Mithril Stockings objId: 268481216 x: 79714 y: 150656 z: -3519)
+06/01/2022 22:24:46>FighterLethal [268497202]>Drop>Test>(id: 57 name: Adena objId: 268497231 x: -116931 y: 46594 z: 367)

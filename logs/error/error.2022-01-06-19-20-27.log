@@ -1,0 +1,54 @@
+[WARN ] 2022-01-06 19:20:46 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-06 19:21:19 SpawnTable: Data missing in NPC table for ID 1000004!
+[WARN ] 2022-01-06 19:21:19 SpawnTable: Data missing in NPC table for ID 10004!
+[WARN ] 2022-01-06 19:23:50 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type ENEMY used on L2NpcBufferInstance:Shiela(1000003)[268479265] by Void [268481234]!
+[WARN ] 2022-01-06 19:23:59 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2NpcBufferInstance:Shiela(1000003)[268479265] by Void [268481234]!
+[WARN ] 2022-01-06 19:23:59 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2NpcBufferInstance:Shiela(1000003)[268479265] by Void [268481234]!
+[WARN ] 2022-01-06 19:24:12 TargetType: Outdated Skill PvP Weapon - Cancel(5682,1) with target type ENEMY used on L2MerchantInstance:Hernan(10002)[268479263] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:24:13 TargetType: Outdated Skill PvP Weapon - Ignore Shield Defense(5683,1) with target type ENEMY used on L2MerchantInstance:Hernan(10002)[268479263] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:24:13 TargetType: Outdated Skill PvP Weapon - Ignore Shield Defense(5683,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479263] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:24:13 TargetType: Outdated Skill Greedy Throat(23320,1) with target type ENEMY used on L2MerchantInstance:Hernan(10002)[268479263] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:24:17 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479263] by Void [268481234]!
+[WARN ] 2022-01-06 19:24:28 TargetType: Outdated Skill Expose Weak Point(5565,1) with target type ENEMY_ONLY used on FighterLethal [268497202] by Void [268481234]!
+[WARN ] 2022-01-06 19:24:49 TargetType: Outdated Skill PvP Weapon - Cancel(5682,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479263] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:24:50 TargetType: Outdated Skill Greedy Throat(23320,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479263] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:24:50 TargetType: Outdated Skill PvP Weapon - Ignore Shield Defense(5683,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479263] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:24:50 TargetType: Outdated Skill PvP Weapon - Cancel(5682,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479263] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:24:51 TargetType: Outdated Skill Greedy Throat(23320,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479263] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:24:51 TargetType: Outdated Skill Greedy Throat(23320,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479263] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:33:47 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:33:47 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:33:49 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:33:49 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:33:50 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:33:51 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:33:52 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:33:53 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:33:54 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:33:54 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:33:56 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:33:59 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:01 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:02 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:04 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:05 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:05 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:06 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:07 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:08 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:19 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:19 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:27 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:27 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:28 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:28 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:33 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by Void [268481234]!
+[WARN ] 2022-01-06 19:34:38 TargetType: Outdated Skill PvP Weapon - Cancel(5682,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:34:38 TargetType: Outdated Skill Greedy Throat(23320,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:34:38 TargetType: Outdated Skill PvP Weapon - Cancel(5682,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:34:38 TargetType: Outdated Skill PvP Weapon - Ignore Shield Defense(5683,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:34:39 TargetType: Outdated Skill Greedy Throat(23320,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:34:40 TargetType: Outdated Skill Greedy Throat(23320,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479264] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 19:46:37 L2GameClientPacket: Void [268481234] requested not registered admin command 'admin_unpolymorph_menu'
+[WARN ] 2022-01-06 19:49:58 Shutdown: GM: FighterLethal(268497202) issued shutdown command. restarting in 1 seconds!
+[WARN ] 2022-01-06 19:49:59 Shutdown: GM shutdown countdown is over. restarting NOW!

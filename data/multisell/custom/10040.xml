@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10002</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- Misc -->
+<!-- © 2010 by mathuza -->
+
+
+
+<!-- Misc -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="17138" count="1" />
+	</item>
+	
+ <!-- Misc -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="14234" count="1" />
+	</item>
+	<!-- Misc -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="14235" count="1" />
+	</item>
+	<!-- Misc -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="14236" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="15344" count="1" />
+	</item>
+	<!-- Misc -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="20867" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="20939" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="13547" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="20029" count="1" />
+	</item>
+	
+	<!-- Misc -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="20396" count="1" />
+	</item>
+	
+	  <!-- pig lollipop -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10167" count="1"/>
+  </item>
+  
+  <!-- pumpkin transformation stick -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="12800" count="1"/>
+  </item>
+
+  <!-- gatekeeper transformation stick -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="12814" count="1"/>
+  </item>
+  
+
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="20910" count="1"/>
+  </item>
+
+
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="20924" count="1"/>
+  </item>
+
+
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="20925" count="1"/>
+  </item>
+  
+     <!-- Elven Firecracker -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="6403" count="1"/>
+  </item>
+
+  <!-- Firecracker -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="6406" count="1"/>
+  </item>
+
+  <!-- Large Firework -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="6407" count="1"/>
+  </item>
+  
+</list>

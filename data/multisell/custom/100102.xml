@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10004</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- © 2010 by mathuza -->
+
+
+
+  <!-- Vorpal Necklace -->
+ <item>
+    <ingredient id="5961" count="1"/>
+    <production id="15722" count="1"/>
+  </item>
+
+  <!-- Vorpal Earring -->
+ <item>
+    <ingredient id="5961" count="1"/>
+    <production id="15721" count="1"/>
+  </item>
+
+  <!-- Vorpal Ring -->
+ <item>
+    <ingredient id="5961" count="1"/>
+    <production id="15720" count="1"/>
+  </item>
+
+
+</list>

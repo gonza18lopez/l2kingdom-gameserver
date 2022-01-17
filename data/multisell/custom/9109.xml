@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10002</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- B-Grade Jewels -->
+
+
+
+  <!-- Necklace of Black Ore -->
+ <item>
+    <ingredient id="57" count="8000000"/>
+    <production id="926" count="1"/>
+  </item>
+
+  <!-- Earring of Black Ore -->
+ <item>
+    <ingredient id="57" count="6000000"/>
+    <production id="864" count="1"/>
+  </item>
+
+  <!-- Ring of Black Ore -->
+ <item>
+    <ingredient id="57" count="6000000"/>
+    <production id="895" count="1"/>
+  </item>
+
+</list>

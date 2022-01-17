@@ -1,0 +1,5 @@
+[WARN ] 2022-01-07 00:17:04 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-07 00:17:38 SpawnTable: Data missing in NPC table for ID 1000004!
+[WARN ] 2022-01-07 00:17:38 SpawnTable: Data missing in NPC table for ID 10004!
+[WARN ] 2022-01-07 00:37:21 Shutdown: GM: FighterLethal(268497202) issued shutdown command. restarting in 1 seconds!
+[WARN ] 2022-01-07 00:37:22 Shutdown: GM shutdown countdown is over. restarting NOW!

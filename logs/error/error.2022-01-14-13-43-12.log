@@ -1,0 +1,15 @@
+[WARN ] 2022-01-14 13:43:30 EnchantItemData: Wrong enchant scroll item type: 731 defined in enchant data!
+[WARN ] 2022-01-14 13:43:30 EnchantItemData: Wrong enchant scroll item type: 949 defined in enchant data!
+[WARN ] 2022-01-14 13:43:30 EnchantItemData: Wrong enchant scroll item type: 953 defined in enchant data!
+[WARN ] 2022-01-14 13:43:30 EnchantItemData: Wrong enchant scroll item type: 957 defined in enchant data!
+[WARN ] 2022-01-14 13:43:30 EnchantItemData: Wrong enchant scroll item type: 961 defined in enchant data!
+[WARN ] 2022-01-14 13:43:30 EnchantItemData: Wrong enchant scroll item type: 732 defined in enchant data!
+[WARN ] 2022-01-14 13:43:30 EnchantItemData: Wrong enchant scroll item type: 950 defined in enchant data!
+[WARN ] 2022-01-14 13:43:30 EnchantItemData: Wrong enchant scroll item type: 954 defined in enchant data!
+[WARN ] 2022-01-14 13:43:30 EnchantItemData: Wrong enchant scroll item type: 958 defined in enchant data!
+[WARN ] 2022-01-14 13:43:30 EnchantItemData: Wrong enchant scroll item type: 962 defined in enchant data!
+[WARN ] 2022-01-14 13:43:32 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-14 13:44:09 SpawnTable: Data missing in NPC table for ID 1000004!
+[WARN ] 2022-01-14 13:46:10 MultisellData: MultisellData: Player Beto Risso [268497202] attempted to open multisell 10061 from npc L2MerchantInstance:Alicia(10004)[268479319] which is not allowed!
+[WARN ] 2022-01-14 13:49:24 Shutdown: GM: Beto Risso(268497202) issued shutdown command. restarting in 1 seconds!
+[WARN ] 2022-01-14 13:49:25 Shutdown: GM shutdown countdown is over. restarting NOW!

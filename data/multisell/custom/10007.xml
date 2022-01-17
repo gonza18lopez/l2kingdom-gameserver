@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10002</npc> <!-- Nicole -->
+  </npcs>
+
+
+<!-- Vorpal Jewels -->
+<!-- © 2010 by mathuza -->
+
+
+	<!-- Freya Jewels -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="15725" count="1" />
+	</item>
+	<!-- Freya Jewels -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="15724" count="1" />
+	</item>
+	<!-- Freya Jewels -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="15723" count="1" />
+	</item>
+	<!-- Freya Jewels -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="15719" count="1" />
+	</item>
+	<!-- Freya Jewels -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="15718" count="1" />
+	</item>
+	<!-- Freya Jewels -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="15717" count="1" />
+	</item>
+	<!-- Freya Jewels -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="15722" count="1" />
+	</item>
+	<!-- Freya Jewels -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="15721" count="1" />
+	</item>
+	<!-- Freya Jewels -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="15720" count="1" />
+	</item>
+
+</list>

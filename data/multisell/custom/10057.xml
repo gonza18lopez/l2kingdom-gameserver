@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10002</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- Seven Signs - Purchase consumable items -->
+
+
+	<!-- Blessed Resurrection Scroll for Pet for 6000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="6387" count="1" />
+	</item>
+ <!-- Blessed Scroll of Resurrection -->
+ <item>
+    <ingredient id="5575" count="1"/>
+    <production id="3936" count="1"/>
+  </item>
+
+<item>
+    <ingredient id="5575" count="1"/>
+    <production id="1538" count="1"/>
+  </item>
+	<!-- Charm of Luck (No Grade) -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5703" count="1" />
+	</item>
+	<!-- Charm of Luck: D-Grade -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5803" count="1" />
+	</item>
+	<!-- Charm of Luck: C-Grade -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5804" count="1" />
+	</item>
+	<!-- Charm of Luck: B-Grade -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5805" count="1" />
+	</item>
+	<!-- Charm of Luck: A-Grade -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5806" count="1" />
+	</item>
+	<!-- Charm of Luck: S Grade -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5807" count="1" />
+	</item>
+	<!-- SP Scroll - Low Grade for 2400 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5593" count="1" />
+	</item>
+	<!-- SP Scroll - Medium Grade for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5594" count="1" />
+	</item>
+	<!-- SP Scroll - High Grade for 480000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5595" count="1" />
+	</item>
+	<!-- Mystery Potion for 12000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5234" count="1" />
+	</item>
+	<!-- Facelifting Potion A for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5235" count="1" />
+	</item>
+	<!-- Facelifting Potion B for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5236" count="1" />
+	</item>
+	<!-- Facelifting Potion C for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5237" count="1" />
+	</item>
+	<!-- Hair Dye Potion A for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5238" count="1" />
+	</item>
+	<!-- Hair Dye Potion B for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5239" count="1" />
+	</item>
+	<!-- Hair Dye Potion C for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5240" count="1" />
+	</item>
+	<!-- Hair Dye Potion D for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5241" count="1" />
+	</item>
+	<!-- Hair Style Change Potion A for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5242" count="1" />
+	</item>
+	<!-- Hair Style Change Potion B for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5243" count="1" />
+	</item>
+	<!-- Hair Style Change Potion C for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5244" count="1" />
+	</item>
+	<!-- Hair Style Change Potion D for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5245" count="1" />
+	</item>
+	<!-- Hair Style Change Potion E for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5246" count="1" />
+	</item>
+	<!-- Hair Style Change Potion F for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5247" count="1" />
+	</item>
+	<!-- Hair Style Change Potion G for 24000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5248" count="1" />
+	</item>
+	<!-- Party Mask for 600000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5808" count="1" />
+	</item>
+	<!-- Squeaking Shoes for 420000 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5590" count="1" />
+	</item>
+	<!-- Record of the Seven Signs for 600 Ancient Adena -->
+	<item>
+		<ingredient id="5575" count="1" />
+		<production id="5707" count="1" />
+	</item>
+</list>

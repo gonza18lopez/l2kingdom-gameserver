@@ -1,0 +1,4 @@
+[WARN ] 2022-01-04 21:15:59 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-04 21:16:00 IXmlReader: MultisellData: Folder C:\opt\l2j\server\game\data\multisell\custom doesn't exist!
+[WARN ] 2022-01-04 22:03:36 Shutdown: GM: Void(268481234) issued shutdown command. shutting down in 3 seconds!
+[WARN ] 2022-01-04 22:03:39 Shutdown: GM shutdown countdown is over. shutting down NOW!

@@ -52,13 +52,31 @@
 			<height normal="12.5" />
 		</collision>
 	</npc>
-	<npc id="1000003" displayId="32226" name="Shiela" usingServerSideName="true" title="L2J NPC Buffer" usingServerSideTitle="true" type="L2NpcBuffer">
+	<npc id="1000003" displayId="4305" name="Buffer" usingServerSideName="true" title="Buffer" usingServerSideTitle="true" type="L2NpcBuffer">
 		<collision>
 			<radius normal="11" />
 			<height normal="22.25" />
 		</collision>
 	</npc>
-	<npc id="1000004" displayId="36500" name="Tienda" usingServerSideName="true" title="Kingdom Shop" usingServerSideTitle="true" type="L2Merchant">
+	<npc id="10002" displayId="134" name="Hernan" usingServerSideName="true" title="Kingdom Shop" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="10" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="10003" displayId="135" name="Catalina" usingServerSideName="true" title="Special Shop" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="10" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="10004" displayId="4308" name="Donelio" usingServerSideName="true" title="Donation Shop" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="10" />
+			<height normal="27" />
+		</collision>
+	</npc>
+	<npc id="5004" displayId="32602" name="Portal" usingServerSideName="true" title="Global Gatekeeper" usingServerSideTitle="true" type="L2Teleporter">
 		<collision>
 			<radius normal="11" />
 			<height normal="22.25" />

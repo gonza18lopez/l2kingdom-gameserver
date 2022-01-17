@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10004</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- © 2010 by mathuza -->
+
+
+
+  <!-- Elegia Necklace -->
+ <item>
+    <ingredient id="5961" count="1"/>
+    <production id="15719" count="1"/>
+  </item>
+
+  <!-- Elegia Earring -->
+ <item>
+    <ingredient id="5961" count="1"/>
+    <production id="15718" count="1"/>
+  </item>
+
+  <!-- Elegia Ring -->
+ <item>
+    <ingredient id="5961" count="1"/>
+    <production id="15717" count="1"/>
+  </item>
+
+
+</list>

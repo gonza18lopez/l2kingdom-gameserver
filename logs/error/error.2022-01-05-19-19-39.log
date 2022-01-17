@@ -1,0 +1,7 @@
+[WARN ] 2022-01-05 19:20:00 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-05 19:20:38 SpawnTable: Data missing in NPC table for ID 10002!
+[WARN ] 2022-01-05 19:20:38 SpawnTable: Data missing in NPC table for ID 10002!
+[WARN ] 2022-01-05 19:21:07 L2GameServerPacket: missing html page data/html/merchant/1000004.htm
+[WARN ] 2022-01-05 19:22:24 MultisellData: MultisellData: Player Void [268481234] attempted to open multisell 10044 from npc L2MerchantInstance:Tienda(1000004)[268481197] which is not allowed!
+[WARN ] 2022-01-05 19:24:15 Shutdown: GM: Void(268481234) issued shutdown command. restarting in 1 seconds!
+[WARN ] 2022-01-05 19:24:16 Shutdown: GM shutdown countdown is over. restarting NOW!

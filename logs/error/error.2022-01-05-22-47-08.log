@@ -1,0 +1,12 @@
+[WARN ] 2022-01-05 22:47:29 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-05 22:48:13 SpawnTable: Data missing in NPC table for ID 1000004!
+[WARN ] 2022-01-05 22:48:13 SpawnTable: Data missing in NPC table for ID 10004!
+[WARN ] 2022-01-05 22:57:10 TargetType: Outdated Skill PvP Weapon - Ignore Shield Defense(5683,1) with target type ENEMY used on L2MerchantInstance:Hernan(10002)[268479262] by Void [268481234]!
+[WARN ] 2022-01-05 22:57:11 TargetType: Outdated Skill PvP Weapon - Cancel(5682,1) with target type ENEMY used on L2MerchantInstance:Hernan(10002)[268479262] by Void [268481234]!
+[WARN ] 2022-01-05 22:57:17 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type ENEMY used on L2MerchantInstance:Hernan(10002)[268479262] by Void [268481234]!
+[WARN ] 2022-01-05 22:57:17 TargetType: Outdated Skill PvP Weapon - Decrease Range(5687,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479262] by Void [268481234]!
+[WARN ] 2022-01-06 17:16:41 TargetType: Outdated Skill PvP Weapon - Ignore Shield Defense(5683,1) with target type TARGET used on L2MerchantInstance:Hernan(10002)[268479262] by FighterLethal [268497202]!
+[WARN ] 2022-01-06 17:31:19 L2GameClientPacket: No handler registered for admin command 'admin_server_restar'
+[WARN ] 2022-01-06 17:31:36 L2GameClientPacket: No handler registered for admin command 'admin_server_restar'
+[WARN ] 2022-01-06 17:33:44 Shutdown: GM: FighterLethal(268497202) issued shutdown command. restarting in 0 seconds!
+[WARN ] 2022-01-06 17:33:44 Shutdown: GM shutdown countdown is over. restarting NOW!

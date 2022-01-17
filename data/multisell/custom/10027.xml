@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10002</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- 1 Class Transfer -->
+<!-- © 2010 by mathuza -->
+
+
+
+  <!-- Medallion of Warrior -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1145" count="1"/>
+  </item>
+
+  <!-- Sword of Ritual -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1161" count="1"/>
+  </item>
+  
+  <!-- Bezique's Recommendation -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1190" count="1"/>
+  </item>
+  
+  <!-- Bead of Season -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1292" count="1"/>
+  </item>
+  
+  <!-- Mark of Faith -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1201" count="1"/>
+  </item>
+  
+  <!-- Kluto Box  -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1203" count="1"/>
+  </item>
+
+
+  <!-- Reisa's Recommendation  -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1217" count="1"/>
+  </item>
+
+  
+  <!-- Eternity Diamond  -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1230" count="1"/>
+  </item>
+
+
+  <!-- Leaf of Oracle -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1235" count="1"/>
+  </item>
+
+
+
+  <!-- Gaze of Abyss -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1244" count="1"/>
+  </item>
+
+
+
+  <!-- Iron Heart -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1252" count="1"/>
+  </item>
+
+
+  <!-- Jewel of Darkness -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1261" count="1"/>
+  </item>
+
+
+  <!-- Orb of Abbys -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1270" count="1"/>
+  </item>
+
+
+  <!-- Mark of Raider -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1592" count="1"/>
+  </item>
+
+
+
+  <!-- Khavatari Totem -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1615" count="1"/>
+  </item>
+
+
+  <!-- Mask of Medium -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1631" count="1"/>
+  </item>
+
+
+  <!-- Ring Of Raven -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1642" count="1"/>
+  </item>
+
+
+  <!-- Final Pass Certificate -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="1635" count="1"/>
+  </item>
+
+</list>

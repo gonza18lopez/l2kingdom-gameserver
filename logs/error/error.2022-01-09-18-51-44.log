@@ -1,0 +1,12 @@
+[WARN ] 2022-01-09 18:52:04 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-09 18:52:36 SpawnTable: Data missing in NPC table for ID 1000004!
+[WARN ] 2022-01-09 18:52:36 SpawnTable: Data missing in NPC table for ID 10004!
+[WARN ] 2022-01-09 19:44:27 TradeList: Beto Risso: Attempt to add an item that is already present!
+[WARN ] 2022-01-09 20:46:05 TradeList: Beto Risso: Attempt to add an item that is already present!
+[WARN ] 2022-01-09 20:46:23 L2GameClientPacket: RequestExTryToPutEnchantTargetItem: Undefined scroll have been used id: 961
+[WARN ] 2022-01-09 20:46:30 L2GameClientPacket: RequestExTryToPutEnchantTargetItem: Undefined scroll have been used id: 961
+[WARN ] 2022-01-09 20:46:38 L2GameClientPacket: RequestExTryToPutEnchantTargetItem: Undefined scroll have been used id: 961
+[WARN ] 2022-01-09 20:46:48 L2GameClientPacket: RequestExTryToPutEnchantTargetItem: Undefined scroll have been used id: 961
+[WARN ] 2022-01-09 20:48:18 L2GameClientPacket: RequestExTryToPutEnchantTargetItem: Undefined scroll have been used id: 961
+[WARN ] 2022-01-09 20:49:15 Shutdown: GM: Beto Risso(268497202) issued shutdown command. restarting in 1 seconds!
+[WARN ] 2022-01-09 20:49:16 Shutdown: GM shutdown countdown is over. restarting NOW!

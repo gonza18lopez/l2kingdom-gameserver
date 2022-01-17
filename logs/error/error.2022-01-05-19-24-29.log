@@ -1,0 +1,10 @@
+[WARN ] 2022-01-05 19:24:49 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-05 19:25:26 SpawnTable: Data missing in NPC table for ID 10002!
+[WARN ] 2022-01-05 19:25:26 SpawnTable: Data missing in NPC table for ID 10002!
+[WARN ] 2022-01-05 19:25:26 SpawnTable: Data missing in NPC table for ID 1000004!
+[WARN ] 2022-01-05 19:25:58 L2GameServerPacket: missing html page data/html/merchant/10004.htm
+[WARN ] 2022-01-05 19:27:35 L2GameServerPacket: missing html page data/html/merchant/10004.htm
+[WARN ] 2022-01-05 19:28:00 L2GameServerPacket: missing html page data/html/merchant/10004.htm
+[WARN ] 2022-01-05 19:30:46 L2GameServerPacket: missing html page data/html/merchant/10004.htm
+[WARN ] 2022-01-05 19:30:52 Shutdown: GM: Void(268481234) issued shutdown command. restarting in 1 seconds!
+[WARN ] 2022-01-05 19:30:53 Shutdown: GM shutdown countdown is over. restarting NOW!

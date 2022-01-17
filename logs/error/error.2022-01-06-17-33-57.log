@@ -1,0 +1,8 @@
+[WARN ] 2022-01-06 17:34:18 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-06 17:34:58 SpawnTable: Data missing in NPC table for ID 1000004!
+[WARN ] 2022-01-06 17:34:58 SpawnTable: Data missing in NPC table for ID 10004!
+[WARN ] 2022-01-06 17:41:48 L2GameClientPacket: No handler registered for admin command 'admin_restart_server'
+[WARN ] 2022-01-06 17:41:58 L2GameClientPacket: No handler registered for admin command 'admin_restart_server'
+[WARN ] 2022-01-06 17:42:15 L2GameClientPacket: No handler registered for admin command 'admin_restart_server'
+[WARN ] 2022-01-06 17:42:34 Shutdown: GM: FighterLethal(268497202) issued shutdown command. restarting in 1 seconds!
+[WARN ] 2022-01-06 17:42:35 Shutdown: GM shutdown countdown is over. restarting NOW!

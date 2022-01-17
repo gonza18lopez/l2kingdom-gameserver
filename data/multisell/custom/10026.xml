@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10002</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- Majestic Jewels -->
+<!-- © 2010 by mathuza -->
+
+
+
+  <!-- Majestic Necklace -->
+ <item>
+    <ingredient id="57" count="15000000"/>
+    <production id="924" count="1"/>
+  </item>
+
+  <!-- Majestic Earring -->
+ <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="862" count="1"/>
+  </item>
+
+  <!-- Majestic Ring -->
+ <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="893" count="1"/>
+  </item>
+
+  <!-- Phoenix Necklace -->
+ <item>
+    <ingredient id="57" count="15000000"/>
+    <production id="933" count="1"/>
+  </item>
+
+  <!-- Phoenix Earring -->
+ <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="871" count="1"/>
+  </item>
+
+  <!-- Phoenix Ring -->
+ <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="902" count="1"/>
+  </item>
+  
+</list>

@@ -1,0 +1,17 @@
+[INFO ] 2022-01-08 15:48:37 GameServer: ------------------------------------------------=[ Database ]
+[INFO ] 2022-01-08 15:48:37 GameServer: -----------------------------------=[ Network Configuration ]
+[INFO ] 2022-01-08 15:48:37 IPConfigData: Using automatic network configuration.
+[INFO ] 2022-01-08 15:48:38 IPConfigData: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+[INFO ] 2022-01-08 15:48:38 IPConfigData: Adding new subnet: 192.168.45.0/24 address: 192.168.45.45
+[INFO ] 2022-01-08 15:48:38 IPConfigData: Adding new subnet: 0.0.0.0/0 address: 168.205.94.22
+[INFO ] 2022-01-08 15:48:38 HikariDataSource: HikariPool-1 - Starting...
+[INFO ] 2022-01-08 15:48:38 HikariDataSource: HikariPool-1 - Start completed.
+[INFO ] 2022-01-08 15:48:38 IdFactory: Updated characters online status.
+[INFO ] 2022-01-08 15:48:38 IdFactory: Cleaned up invalid weddings.
+[INFO ] 2022-01-08 15:48:38 IdFactory: Cleaned 0 elements from database in 0s.
+[INFO ] 2022-01-08 15:48:38 IdFactory: Cleaned 0 expired timestamps from database.
+[INFO ] 2022-01-08 15:48:38 BitSetIDFactory: 102912 Ids available.
+[INFO ] 2022-01-08 15:48:38 GameServer: ---------------------------------------------------=[ World ]
+[INFO ] 2022-01-08 15:48:38 InstanceManager: Multiverse Instance created.
+[INFO ] 2022-01-08 15:48:38 InstanceManager: Universe Instance created.
+[INFO ] 2022-01-08 15:48:38 InstanceManager: Loaded 160 instance names.

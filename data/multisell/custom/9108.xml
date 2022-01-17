@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10002</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- C-Grade Jewels -->
+
+
+
+  <!-- Blessed Necklace -->
+ <item>
+    <ingredient id="57" count="220000"/>
+    <production id="919" count="1"/>
+  </item>
+
+  <!-- Blessed Earring -->
+ <item>
+    <ingredient id="57" count="165000"/>
+    <production id="857" count="1"/>
+  </item>
+
+  <!-- Blessed Ring -->
+ <item>
+    <ingredient id="57" count="110000"/>
+    <production id="888" count="1"/>
+  </item>
+
+</list>

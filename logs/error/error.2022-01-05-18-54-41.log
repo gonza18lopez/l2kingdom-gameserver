@@ -1,0 +1,6 @@
+[WARN ] 2022-01-05 18:55:02 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-05 18:55:47 SpawnTable: Data missing in NPC table for ID 10002!
+[WARN ] 2022-01-05 18:55:47 SpawnTable: Data missing in NPC table for ID 10002!
+[WARN ] 2022-01-05 19:14:37 L2GameClientPacket: No handler registered for admin command 'admin_spaw'
+[WARN ] 2022-01-05 19:19:25 Shutdown: GM: Void(268481234) issued shutdown command. restarting in 2 seconds!
+[WARN ] 2022-01-05 19:19:27 Shutdown: GM shutdown countdown is over. restarting NOW!

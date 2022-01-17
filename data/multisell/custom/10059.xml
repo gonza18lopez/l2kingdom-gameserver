@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10002</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- Transformation -->
+<!-- © 2011 by 007Florin -->
+
+
+
+  <!-- Onyx Beast -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="9648" count="1"/>
+  </item>
+
+  <!-- Death Blader -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="9649" count="1"/>
+  </item>
+
+  <!-- Grail Apostle -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="9650" count="1"/>
+  </item>
+
+  <!-- Unicorn -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="9651" count="1"/>
+  </item>
+
+  <!-- Lilim Knight -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="9652" count="1"/>
+  </item>
+
+  <!-- Golem Guardian -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="9653" count="1"/>
+  </item>
+
+<!-- Inferno Drake -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="9654" count="1"/>
+  </item>
+
+<!-- Dragon Bomber -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="9655" count="1"/>
+  </item>
+
+<!-- Pig -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="9897" count="1"/>
+  </item>
+
+<!-- Divine Knight -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10288" count="1"/>
+  </item>
+
+<!-- Divine Warrior -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10289" count="1"/>
+  </item>
+
+<!-- Divine Rouge  -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10290" count="1"/>
+  </item>
+
+<!-- Divine Healer -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10291" count="1"/>
+  </item>
+
+<!-- Divine Wizard -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10292" count="1"/>
+  </item>
+
+<!-- Divine Enchanter -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10293" count="1"/>
+  </item>
+
+<!-- Divine Summoner -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10294" count="1"/>
+  </item>
+
+<!-- Zaken -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10295" count="1"/>
+  </item>
+
+<!-- Anakim -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10296" count="1"/>
+  </item>
+
+<!-- Venom -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10297" count="1"/>
+  </item>
+
+<!-- Gordon -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10298" count="1"/>
+  </item>
+
+<!-- Ranku -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10299" count="1"/>
+  </item>
+
+<!-- Kechi -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10300" count="1"/>
+  </item>
+
+<!-- Demon Prince -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10301" count="1"/>
+  </item>
+
+<!-- Heretic -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10302" count="1"/>
+  </item>
+
+<!-- Saber Tooth Tiger -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10304" count="1"/>
+  </item>
+
+<!-- Oel Mahum -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10305" count="1"/>
+  </item>
+
+<!-- Doll Blader -->
+ <item>
+    <ingredient id="57" count="1"/>
+    <production id="10299" count="1"/>
+  </item>
+
+</list>

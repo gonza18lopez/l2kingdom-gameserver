@@ -1,0 +1,37 @@
+[WARN ] 2022-01-05 21:08:55 IXmlReader: BuyListData: Folder C:\opt\l2j\server\game\data\buylists\custom doesn't exist!
+[WARN ] 2022-01-05 21:08:56 IXmlReader: MultisellData: Could not parse file 10044.xml at line 16, column 40
+org.xml.sax.SAXParseException: cvc-complex-type.2.4.a: Invalid content was found starting with element 'ingredient'. One of '{production}' is expected.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204) ~[?:?]
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.error(ErrorHandlerWrapper.java:135) ~[?:?]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:396) ~[?:?]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327) ~[?:?]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284) ~[?:?]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator$XSIErrorReporter.reportError(XMLSchemaValidator.java:512) ~[?:?]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.reportSchemaError(XMLSchemaValidator.java:3588) ~[?:?]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1972) ~[?:?]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.emptyElement(XMLSchemaValidator.java:850) ~[?:?]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:351) ~[?:?]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2726) ~[?:?]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605) ~[?:?]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112) ~[?:?]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542) ~[?:?]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889) ~[?:?]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825) ~[?:?]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141) ~[?:?]
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:247) ~[?:?]
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342) ~[?:?]
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:206) ~[?:?]
+	at com.l2jserver.gameserver.util.IXmlReader.parseFile(IXmlReader.java:88) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.util.IXmlReader.parseDirectory(IXmlReader.java:142) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.util.IXmlReader.parseDatapackDirectory(IXmlReader.java:156) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.data.xml.impl.MultisellData.load(MultisellData.java:74) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.data.xml.impl.MultisellData.<init>(MultisellData.java:66) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.data.xml.impl.MultisellData$SingletonHolder.<clinit>(MultisellData.java:326) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.data.xml.impl.MultisellData.getInstance(MultisellData.java:322) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.GameServer.<init>(GameServer.java:237) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.GameServer.main(GameServer.java:472) [l2jserver.jar:?]
+[WARN ] 2022-01-05 21:09:33 SpawnTable: Data missing in NPC table for ID 1000004!
+[WARN ] 2022-01-05 21:09:33 SpawnTable: Data missing in NPC table for ID 10004!
+[WARN ] 2022-01-05 21:09:55 MultisellData: MultisellData: Cannot find list ID: 10044 requested by player: Void [268481234], NPC ID: 10002!
+[WARN ] 2022-01-05 21:10:10 Shutdown: GM: Void(268481234) issued shutdown command. restarting in 0 seconds!
+[WARN ] 2022-01-05 21:10:10 Shutdown: GM shutdown countdown is over. restarting NOW!
