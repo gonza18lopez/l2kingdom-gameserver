@@ -41,6 +41,7 @@
 
   <!-- Triumph Dagger -->
  <item>
+    <ingredient id="5962" count="2"/>
     <production id="15677" count="1"/>
   </item>
 

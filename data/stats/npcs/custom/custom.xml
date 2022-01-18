@@ -78,8 +78,8 @@
 	</npc>
 	<npc id="5004" displayId="32602" name="Portal" usingServerSideName="true" title="Global Gatekeeper" usingServerSideTitle="true" type="L2Teleporter">
 		<collision>
-			<radius normal="11" />
-			<height normal="22.25" />
+			<radius normal="16" />
+			<height normal="42" />
 		</collision>
 	</npc>
 </list>
