@@ -30,7 +30,7 @@
 		<set name="targetType" val="SELF" />
 		<effects>
 			<effect name="Mp">
-				<param amount="100" />
+				<param amount="400" />
 			</effect>
 		</effects>
 	</skill>
